@@ -6,4 +6,4 @@ pandas
 pytz
 scipy
 sklearn
-
+wikipedia-api
