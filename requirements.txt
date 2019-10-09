@@ -7,3 +7,4 @@ pytz
 scipy
 sklearn
 wikipedia-api
+binarytree
